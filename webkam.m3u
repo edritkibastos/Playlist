@@ -1,14 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/NjkMFwq9/security-camera-sign.jpg",Обновление:31.05.2023
-https://drive.google.com/uc?export=download&id=1GURBIIwDEoJoUiZ-tPubo5q_x9p54E61
-#EXTINF:-1 group-title="🔺 INFO 🔺"  tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://t.me/freeneo_net
-https://drive.google.com/uc?export=download&id=1nWk_eLR6bw7kdGWy50ftULkuCu_NFdPa
-
-
-
-
-
 #EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 1
 https://stream.n1.au.swellnet.com/surfcams/margaret-river.stream/chunks.m3u8
 #EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 2
@@ -3131,17 +3121,3 @@ https://stream.vedge.infomaniak.com/livecast/webcam01luganoch.stream/playlist.m3
 https://stream.vedge.infomaniak.com/livecast/webcam02luganoch.stream/playlist.m3u8
 #EXTINF:-1 group-title="Швейцария 🇨🇭",9
 https://stream.vedge.infomaniak.com/livecast/webcam04luganoch.stream/playlist.m3u8
-#EXTINF:-1 group-title="Шотландия 🏴󠁧󠁢󠁳󠁣󠁴󠁿",Коала
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzoo103750_koala.stream/playlist.m3u8
-#EXTINF:-1 group-title="Шотландия 🏴󠁧󠁢󠁳󠁣󠁴󠁿",Панда
-http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Шотландия 🏴󠁧󠁢󠁳󠁣󠁴󠁿",Пингвины
-http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoo104225.stream/playlist.m3u8
-#EXTINF:-1 group-title="Шотландия 🏴󠁧󠁢󠁳󠁣󠁴󠁿",Пингвины 2
-https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8
-#EXTINF:-1 group-title="Шотландия 🏴󠁧󠁢󠁳󠁣󠁴󠁿",Тигр
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿",Талин (4K)
-http://83.166.53.184:8080/index.m3u8
-#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿",Талин 1
-http://stream02.vikingsecurity.ee:1935/otsep11/cam9108/playlist.m3u8
