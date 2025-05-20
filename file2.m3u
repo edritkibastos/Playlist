@@ -594,7 +594,3 @@ https://cdn-004.whatsupcams.com/hls/hr_senj03.m3u8
 https://cdn-002.whatsupcams.com/hls/hr_brsec01.m3u8
 #EXTINF:-1 group-title="Швейцария 🇨🇭" resolution="1280@720",2
 https://live.prd.dlive.tv/hls/live/dlive-gxddefkpsc.m3u8
-#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿" resolution="3840@2160",Талин (4K)
-http://83.166.53.184:8080/index.m3u8
-#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿" resolution="1280@720",Талин 1
-http://stream02.vikingsecurity.ee:1935/otsep11/cam9108/playlist.m3u8
