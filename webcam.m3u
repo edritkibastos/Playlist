@@ -1,0 +1,600 @@
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER"
+#EXTINF:-1 group-title="Австралия 🇦🇺" resolution="1920@1080",Австралия 1
+https://stream.n1.au.swellnet.com/surfcams/margaret-river.stream/chunks.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺" resolution="1920@1080",Австралия 2
+https://stream.n1.au.swellnet.com/surfcams/duranbah.stream/playlist.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺" resolution="1920@1080",Австралия 3
+https://stream.n1.au.swellnet.com/surfcams/scarborough.stream/chunks.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺" resolution="1920@1080",Австралия 4
+https://stream.n1.au.swellnet.com/surfcams/middleton-bay.stream/chunks.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺" resolution="1920@1080",Австралия 5
+https://stream.n1.au.swellnet.com/surfcams/south-port.stream/chunks.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺" resolution="1920@1080",Австралия 6
+https://stream.n1.au.swellnet.com/surfcams/shark-island.stream/playlist.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺" resolution="1280@720",Австралия 7
+https://hls.augrea.stream/coral/hls/stream.m3u8
+#EXTINF:-1 group-title="Австрия  🇦🇹" resolution="1280@720",Австрия 2
+https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Австрия  🇦🇹" resolution="1280@720",Австрия 3
+https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Австрия  🇦🇹" resolution="1280@720",Австрия 4
+https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Австрия  🇦🇹" resolution="1280@720",Австрия 5
+http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇬" resolution="1920@1080",Болгария
+http://old.rn-tv.com/live/stream.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇬" resolution="1280@960",Болгария 4
+https://cdn1.webcams.bg:8080/hls/hotel_rodopi.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇬" resolution="1280@720",Болгария 7
+http://cams.pamporovo.me:1935/live/camera1.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇬" resolution="1280@720",Болгария 8
+http://cams.pamporovo.me:1935/live/camera3.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷" resolution="1920@1080",Бразилия 1
+http://cameras.interaviation.com.br/camera01/interaviation1.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷" resolution="1920@1080",Brazil 2
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20003.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷" resolution="1920@1080",Brazil 3
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷" resolution="1280@720",Brazil 5
+https://5a8d73edc0407.streamlock.net/bnuaovivo/bnuipaovivo.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷" resolution="1920@1080",Brazil 6
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2021.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷" resolution="1920@1080",Brazil 7
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20009.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷" resolution="2560@1440",Brazil 8
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Apperley Bridge
+http://maybach.railcam.co.uk/ApperleyBridge_20194/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Bedford
+https://paxman.railcam.co.uk/Bedford1_25194/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Buckfastleigh
+http://maybach.railcam.co.uk/Buckfastleigh_68389/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Corfe Station
+http://maybach.railcam.co.uk:80/Corfe_14435/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Cramlington
+https://maybach.railcam.co.uk/Cramlington_54382/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Crewe
+https://maybach.railcam.co.uk/Crewe2_16754/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Dawlish
+http://camsecure.co/HLS/dawlish.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Dawlish
+https://camsecure.co/HLS/dawlish.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Flitwick
+https://maybach.railcam.co.uk/Flitwick_99123/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Glyndyfrdwy
+http://maybach.railcam.co.uk/Glyndyfrdwy_389573/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Groom bridge
+http://maybach.railcam.co.uk/Groombridge_20182/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Hebden
+https://maybach.railcam.co.uk/Hebden_41043/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="640@360",Hensall
+https://maybach.railcam.co.uk/Hensall_12532/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Hythe
+http://maybach.railcam.co.uk/Hythe_22835/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Kidderminster 2
+http://89.16.164.68:80/SVR-Kidderminster-C2_094871/index.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Minehead Station
+http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",New Romney 2
+https://maybach.railcam.co.uk/NewRomney2_27157/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Princes
+https://paxman.railcam.co.uk/Princes-Risborough_95234/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Ribblehead
+https://paxman.railcam.co.uk/Ribblehead_Viaduct/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Sagress Holidays
+http://camsecure.co/HLS/sagressholidays.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Shrewsbury
+https://paxman.railcam.co.uk/Shrewsbury_10933/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Swanage Station
+http://maybach.railcam.co.uk:80/Swanage_43965/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Torquay
+http://camsecure.co/HLS/boatq1.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Torquay
+https://camsecure.co/HLS/boatq.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Uphall
+https://maybach.railcam.co.uk/Uphall_96341/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Wansford
+http://paxman.railcam.co.uk/NVR-Wansford_83969/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="3840@2160",Weather
+http://89.16.164.69/weather/index.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="3840@2160",Weather
+http://89.16.164.69/weather/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Westward
+http://camsecure.co/HLS/westho.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1280@720",Westward
+https://camsecure.co/HLS/westho.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Williton Station
+http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="1920@1080",Williton Station 2
+http://maybach.railcam.co.uk/Williton2_84721/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧" resolution="640@360",Фламинго
+http://stream.wildlifestreaming.io:1935/Marwell/marwell_flamingo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Венгрия 🇭🇺" resolution="3840@2160",Венгрия 9
+https://mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="960@720",Binz 1
+http://cam01.binz-kabel.de/cam1/960.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="960@720",Binz 2
+http://cam01.binz-kabel.de/cam2/960.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="800@450",Groemitz
+http://osltv.stream24.net/osltv1/_definst_/mp4:groemitz.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="1920@1080",Selb
+http://s1.worldcam.live:8081/selb/index.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="640@400",Аэропорт Гамбург
+http://stream-5gw.1000eyes.de/cupertino/hamDDFB28.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="640@400",Аэропорт Гамбург 2
+http://stream-5gw.1000eyes.de/cupertino/hamDDFBCE.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="640@400",Аэропорт Гамбург 3
+http://stream-5gw.1000eyes.de/cupertino/hamDDD79C.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="640@400",Аэропорт Гамбург 4
+http://stream-5gw.1000eyes.de/cupertino/hamDD9CCF.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="800@450",Аэропорт Дюссельдорфа 2
+http://stream-5gw.1000eyes.de:1935/cupertino/dus5abb.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="800@450",Аэропорт Дюссельдорфа 3
+http://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="800@450",Аэропорт Дюссельдорфа 4
+http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="800@450",Аэропорт Дюссельдорфа 5
+http://stream-5gw.1000eyes.de:1935/cupertino/dused0c.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="640@480",Аэропорт Кельн/Бонн 1
+http://stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="640@480",Аэропорт Кельн/Бонн 3
+http://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪" resolution="1920@1080",Германия 4
+http://tdt.shmhost.net/geist/livestream.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷" resolution="1280@720",Греция 8
+https://corfulive.gr/akti_kontogialos/akti_kontogialos.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷" resolution="1280@720",Греция 18
+https://corfulive.gr/OasisHotel/OasisHotel.m3u8
+#EXTINF:-1 group-title="Греция 🇬🇷" resolution="1280@720",Греция 19
+https://corfulive.gr/Akron/Akron.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸" resolution="1280@720",Испания 5
+https://5b8d2cbe62ad6.streamlock.net/live/spanje.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Исландия 🇮🇸" resolution="1280@720",Исландия 6
+https://bang.snerpa.is/live/live/flateyri.stream/playlist.m3u8
+#EXTINF:-1 group-title="Исландия 🇮🇸Италия 🇮🇹" resolution="1280@720",Исландия 7Италия 1
+http://cdn-003.whatsupcams.com/hls/it_caorle08.m3u8
+#EXTINF:-1 group-title="Италия 🇮🇹" resolution="1920@1080",Италия 6
+https://kadath.ivotv.it/reteivo/aviocam1/chunks.m3u8
+#EXTINF:-1 group-title="Канада 🇨🇦" resolution="1024@768",Canada 1
+http://5ddd47d64e730.streamlock.net:1935/ospreycam/ospreycam.stream/playlist.m3u8
+#EXTINF:-1 group-title="Канада 🇨🇦" resolution="1920@1080",Canada 2
+https://webvideo.mississauga.ca/StageWebcam/LiveStageWebcam.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Канада 🇨🇦" resolution="1920@1080",Canada 3
+https://webvideo.mississauga.ca/BalconyWebcam/LiveWebcam.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Казахстан 🇰🇿" resolution="1920@1080",Шахтинск 1
+http://45.13.18.225:8080/hls/41645/739afa6a30317e043b0d/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан 🇰🇿" resolution="1920@1080",Шахтинск 2
+http://45.13.18.225:8080/hls/41571/cb185e076efb16645f3b/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан 🇰🇿" resolution="1920@1080",Шахтинск 3
+http://45.13.18.225:8080/hls/41567/83b147da59f31400ebbf/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан 🇰🇿" resolution="1280@720",Шымбулак 1
+https://ipcam.kz/cam1/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Казахстан 🇰🇿" resolution="1280@720",Шымбулак 2
+https://ipcam.kz/cam2/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Казахстан 🇰🇿" resolution="1280@720",Шымбулак 4
+https://ipcam.kz/cam5/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Казахстан 🇰🇿" resolution="1280@720",Шымбулак 5
+https://ipcam.kz/cam6/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Казахстан 🇰🇿" resolution="1920@1080",Шымбулак 6
+https://ipcam.kz/cam7/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬" resolution="1920@1080",Бишкек 10
+https://camera.ihlas.kg/stream/cam15/index.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬" resolution="1920@1080",Бишкек 12
+https://camera.ihlas.kg/stream/cam12/index.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬" resolution="1920@1080",Бишкек 3
+https://camera.ihlas.kg/stream/cam13/index.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬" resolution="1920@1080",Бишкек 7
+https://camera.ihlas.kg/stream/cam5/index.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Вильнюс
+http://s1.dcdn.lt/live/vilnius.stream/playlist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Вильнюс 3
+http://s1.dcdn.lt/livecam/vl108.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="3072@1728",Каунас 1
+http://s1.worldcam.live:8081/kaunas/index.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Кафедральный собор
+http://s1.dcdn.lt/livecam/vl147.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Клайпеда
+https://s1.dcdn.lt/livecam/kl016.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Красный Олень
+http://s1.dcdn.lt/livecam/si508.stream/playlist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Красный Олень
+https://s1.dcdn.lt/livecam/si508.stream/playlist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Паланга
+http://s1.dcdn.lt/livecam/pal05.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Шилале
+http://s1.dcdn.lt/livecam/sll50.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Литва - Вильнюс 3
+http://s1.dcdn.lt//live/smil:vilnius.smil/playlist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Литва - Клайпеда
+http://s1.dcdn.lt/livecam/kl016.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Литва - Клайпеда 2
+http://s1.dcdn.lt/livecam/kl011.stream/playlist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1920@1080",Литва - Лепкальнис 1
+http://s1.dcdn.lt//live/liepkalnis2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1920@1080",Литва - Лепкальнис 2
+http://s1.dcdn.lt//live/liepkalnis3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Литва 🇱🇹" resolution="1280@720",Литва - Олени
+http://s1.dcdn.lt/livecam/si508.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Люксембург 🇱🇺" resolution="480@360",1
+http://live-edge.rtl.lu/cita/cita_a1/playlist.m3u8
+#EXTINF:-1 group-title="Люксембург 🇱🇺" resolution="480@360",2
+http://live-edge.rtl.lu/cita/cita_a3/playlist.m3u8
+#EXTINF:-1 group-title="Люксембург 🇱🇺" resolution="480@360",3
+http://live-edge.rtl.lu/cita/cita_a4/playlist.m3u8
+#EXTINF:-1 group-title="Люксембург 🇱🇺" resolution="480@360",4
+http://live-edge.rtl.lu/cita/cita_a6/playlist.m3u8
+#EXTINF:-1 group-title="Люксембург 🇱🇺" resolution="480@360",5
+http://live-edge.rtl.lu/cita/cita_a7/playlist.m3u8
+#EXTINF:-1 group-title="Люксембург 🇱🇺" resolution="480@360",6
+http://live-edge.rtl.lu/cita/cita_a13/playlist.m3u8
+#EXTINF:-1 group-title="Люксембург 🇱🇺" resolution="800@600",7
+http://live-edge.rtl.lu/aclwebcams/aclcamhh2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Люксембург 🇱🇺" resolution="800@600",8
+http://live-edge.rtl.lu/aclwebcams/aclcamhh1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",1
+http://5b8d2cbe62ad6.streamlock.net:1935/live/eernewoude.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",2
+https://5d881567b7568.streamlock.net/live/Slechtvalk1Buiten.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",4
+https://5d881567b7568.streamlock.net/live/Kerkuil1Binnen.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",5
+https://5d881567b7568.streamlock.net/live/Torenvalk3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",6
+https://5d881567b7568.streamlock.net/live/Kerkuil1Buiten.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",8
+https://5b8d2cbe62ad6.streamlock.net/live/vlissingen4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1920@1080",10
+https://5d881567b7568.streamlock.net/live/Steenuil2Binnen.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720"https://6162417352ffd.streamlock.net/live/ecomare.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1920@1080",16
+https://5b8d2cbe62ad6.streamlock.net/live/nes-waddenhaven.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",17
+https://5d881567b7568.streamlock.net/live/Torenvalk3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",22
+https://5b8d2cbe62ad6.streamlock.net/live/bontekoe.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",23
+https://5d881567b7568.streamlock.net/live/Torenvalk2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",24
+https://5d881567b7568.streamlock.net/live/Dras.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",25
+https://584b389d712f9.streamlock.net/live2/blokzijl2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1920@1080",26
+https://jwwcam2.movingmedia.eu/hls/live.stream.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱" resolution="1280@720",28
+https://5b8d2cbe62ad6.streamlock.net/live/zwartsluis.stream/playlist.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",2
+http://stream.elblag.net:18080/kim/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",4
+https://stream.mazury24.eu/mosir-elblag/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="2560@1920",5
+http://k-rz.pl/HLS/centrum.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",10
+https://stream.arkomnet.eu/TSMetalWG/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",11
+https://stream.arkomnet.eu/cisiec/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1280@720",13
+http://s1.worldcam.live:8081/rabien/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1280@1024",14
+http://stream.elblag.net:18080/mosir/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",15
+https://stream.arkomnet.eu/ciecina/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",16
+https://stream.arkomnet.eu/zabnica/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="2560@1440",17
+https://stream.arkomnet.eu/juszczyna/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="2048@1536",18
+https://stream.arkomnet.eu/wgjaz/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1280@720",19
+http://s1.worldcam.live:8081/mwgmazury/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",20
+https://s1.worldcam.live:8082/ipparzno/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",21
+http://s1.worldcam.live:8081/brzozowstadion/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",28
+http://live.kamera24.pl/umolawa/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",35
+https://stream.arkomnet.eu/bacowka_gawel/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Cracow 1
+http://hoktastream4.webcamera.pl/krakow_cam_c4feaa/krakow_cam_c4feaa.stream/playlist.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Cracow 2
+http://hoktastream1.webcamera.pl/wentzl_cam_be5c6c/wentzl_cam_be5c6c.stream/playlist.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Gdansk
+http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Karpacz
+http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Kolobrzeg
+http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Lipowa
+http://91.224.104.112:8181/lipowa/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="2688@1520",Slowik Ski
+http://91.224.104.112:8181/xxx_wyciag_II/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Sopot
+http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",TV Cam
+http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Ujsoly
+http://91.224.104.112:80/ujsoly/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Widok
+http://91.224.104.112:80/wgwidok/index.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1920@1080",Wroclaw
+https://hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1280@720",Аэропорт 10
+https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek2.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1280@720",Аэропорт 11
+https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek1.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱" resolution="1280@720",Аэропорт 9
+https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek3.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1920@1080",Астрахань 1
+https://dvr2.astrakhan.ru/magi-30-hd-1/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1920@1080",Астрахань 2
+http://dvr.astrakhan.ru/kuli-46-hd-1/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1920@1080",Астрахань 8
+http://dvr.astrakhan.ru/kir-19-hd-2/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1920@1080",Астрахань 9
+https://dvr.astrakhan.ru/yabl-1v-hd-1/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1920@1080",Владивосток 10
+http://95.154.111.110/cam1/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1920@1080",Владивосток 11
+http://95.154.111.110/cam2/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1920@1080",Иркутск 2
+http://tv.streams.baikal-telecom.net/CoWorking_IRGUPS/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="2592@1944",Иркутск 7
+http://cctv.baikal-telecom.net/Zapadniy_cam1/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="704@576",Котельники 12
+http://93.157.173.6:8080/m21/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1920@1080",Красноярск 21
+http://flussonic.multi-net.ru/dorogi-6/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1280@960",Красноярск 23
+http://flussonic.multi-net.ru/dorogi-4/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺" resolution="1920@1080",Красноярск 25
+http://flussonic.multi-net.ru/dorogi-5/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Румыния 🇷🇴" resolution="2560@1440",12
+https://5e71c29dc7c8d.streamlock.net/wildliferomania2/live.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 1
+https://streamer.devnet.rs/hls/trgrepublike.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 11
+https://streamer.devnet.rs/hls/takovska.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 12
+https://streamer.devnet.rs/hls/bogoslovija.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 13
+https://streamer.devnet.rs/hls/opstinanbg.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 14
+https://streamer.devnet.rs/hls/genex.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 15
+https://streamer.devnet.rs/hls/zeleznicka.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 16
+https://streamer.devnet.rs/hls/despotastefana.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 17
+https://streamer.devnet.rs/hls/vuk.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 2
+https://streamer.devnet.rs/hls/gazela.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 3
+https://streamer.devnet.rs/hls/pancevac.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 4
+https://streamer.devnet.rs/hls/ada.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 5
+https://streamer.devnet.rs/hls/pupina.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 6
+https://streamer.devnet.rs/hls/autokomanda.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 7
+https://streamer.devnet.rs/hls/gagarina.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 8
+https://streamer.devnet.rs/hls/slavija.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="704@576",Белград 9
+https://streamer.devnet.rs/hls/trgnikole.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="1024@768",Сербия 5
+https://stream5.infokop.net:1443/live_cameras/camera_6/playlist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="1920@1080",Сербия 6
+https://stream5.infokop.net:1443/live_cameras/husky/playlist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="1920@1080",Сербия 7
+https://stream5.infokop.net:1443/live_cameras/jat/playlist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="1920@1080",Сербия 8
+https://stream5.infokop.net:1443/live_cameras/green/playlist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="1280@720",Сербия 9
+https://stream5.infokop.net:1443/live_cameras/grand/playlist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸" resolution="1280@720",Сербия 10
+https://stream5.infokop.net:1443/live_cameras/camera_1/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",1
+http://stream.kukaj.se/stream/1/video.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1800@1100",11
+http://stream.kukaj.se/stream/11/video.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1600@1200",12
+http://stream.kukaj.se/stream/12/video.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1280@720",15
+http://stream.kukaj.se/stream/15/video.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1280@720",18
+http://stream.kukaj.se/stream/18/video.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",2
+http://stream.kukaj.se/stream/2/video.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",23
+http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",24
+https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="3840@2160",25
+https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1280@720",26
+https://kukaj.profi-net.sk/livetrans/KUVIK1.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",27
+http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",28
+http://kukaj.profi-net.sk:1935/live/KAMZIKY.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1280@720",29
+http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",3
+http://stream.kukaj.se/stream/3/video.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1280@720",30
+http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",32
+http://stream.profi-net.sk:1935/tmr//STREAM29.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1280@720",33
+http://kukaj.profi-net.sk:1935/live/PLAMIENKA2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",34
+http://stream.profi-net.sk:1935/tmr/STREAM3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1280@720",35
+http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",36
+http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",37
+http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",38
+http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1920@1080",4
+http://stream.kukaj.se/stream/4/video.m3u8
+#EXTINF:-1 group-title="Словакия 🇸🇰" resolution="1280@720",7
+http://stream.kukaj.se/stream/7/video.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1920@1080",Estes Park
+http://cdn.estesparkwebcams.com/prospect3/index.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1920@1080",Kure Beach
+http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="3072@1728",Myrtle Beach Cam
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-beach.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1920@1080",Myrtle Beach Cam 2
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1920@1080",Myrtle Beach Cam 3
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1920@1080",Southport
+http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1280@720",Southport 2
+http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1920@1080",Surf city
+http://5a5f765a4fcc2.streamlock.net:1935/live/sciga.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1280@720",Warm Winds
+http://5c864aa99ee04.streamlock.net:1935/surfcam/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1920@1080",Кормушка
+http://live.idnes.cz/slow/krmitkousa/playlist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1920@1080",Пингвины 2
+https://5ad79df289937.streamlock.net/Aquarium-WebCams/Penguins.stream/chunklist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸" resolution="1920@1080",Рифы
+https://5ad79df289937.streamlock.net/Aquarium-WebCams/Secret-Reef.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="352@288",100
+http://ibb-media2.ibb.gov.tr:1935/live/1029.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="352@288",101
+http://ibb-media2.ibb.gov.tr:1935/live/1030.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="352@288",102
+http://ibb-media2.ibb.gov.tr:1935/live/1033.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="640@352",103
+http://ibb-media2.ibb.gov.tr:1935/live/1031.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="640@352",104
+http://ibb-media2.ibb.gov.tr:1935/live/1032.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="704@576",105
+http://ibb-media2.ibb.gov.tr:1935/live/1034.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1280@720",110
+http://212.156.98.150:1936/Kamera/Stadyum.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1920@1080",111
+http://212.156.98.150:1936/Kamera/Meydan.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="640@352",12
+http://ibb-media4.ibb.gov.tr:1935/live/19.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1920@1080",2
+http://ibb-media4.ibb.gov.tr:1935/live/2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="704@576",21
+http://ibb-media4.ibb.gov.tr:1935/live/35.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1920@1080",28
+http://ibb-media4.ibb.gov.tr:1935/live/47.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="352@288",32
+http://ibb-media4.ibb.gov.tr:1935/live/57.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="352@288",34
+http://ibb-media4.ibb.gov.tr:1935/live/60.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1920@1080",46
+http://ibb-media4.ibb.gov.tr:1935/live/85.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1280@720",48
+http://ibb-media4.ibb.gov.tr:1935/live/88.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="640@480",55
+http://ibb-media4.ibb.gov.tr:1935/live/100.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1920@1080",58
+http://ibb-media4.ibb.gov.tr:1935/live/103.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1280@720",62
+http://ibb-media4.ibb.gov.tr:1935/live/108.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1920@1080",64
+http://ibb-media4.ibb.gov.tr:1935/live/113.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="640@360",68
+http://ibb-media4.ibb.gov.tr:1935/live/118.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="352@288",70
+http://ibb-media4.ibb.gov.tr:1935/live/121.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="640@480",77
+http://ibb-media4.ibb.gov.tr:1935/live/135.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1280@720",79
+http://ibb-media4.ibb.gov.tr:1935/live/137.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1920@1080",81
+http://ibb-media4.ibb.gov.tr:1935/live/139.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1920@1080",83
+http://ibb-media4.ibb.gov.tr:1935/live/143.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1920@1080",84
+http://ibb-media4.ibb.gov.tr:1935/live/144.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="1280@720",90
+http://ibb-media4.ibb.gov.tr:1935/live/150.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="640@352",97
+http://ibb-media2.ibb.gov.tr:1935/live/1026.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷" resolution="640@352",98
+http://ibb-media2.ibb.gov.tr:1935/live/1027.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦" resolution="2592@1944",Коломыя 2
+http://stream.ntktv.ua/s/annunciation/annunciation.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦" resolution="1280@720",Львов - Церковь 1
+http://sukhovolya-tserkva.org.ua/live-video/church.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦" resolution="1280@720",Львов - Церковь 2
+http://sukhovolya-tserkva.org.ua/live-video/church1.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦" resolution="1280@720",Стрый 3
+https://stream-uspinnia.pp.ua/hls2/index.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦" resolution="1920@1080",Херсон 1
+http://pravoslav.tv:90/hlsplay/live.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷" resolution="1920@1080",Франция 1
+https://live.viewsurf.com/liveedge/sanary01_5_3/playlist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷" resolution="1920@1080",Франция 2
+https://live.viewsurf.com/liveedge/biarritzgrandeplage_1_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷" resolution="1920@1080",Франция 5
+https://live.viewsurf.com/liveedge/anglet07_1_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷" resolution="1920@1080",Франция 6
+https://live.viewsurf.com/liveedge/anglet01_1_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷" resolution="1920@1080",Франция 7
+https://live.viewsurf.com/liveedge/anglet02_1_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷" resolution="1920@1080",Франция 8
+https://live.viewsurf.com/liveedge/biarritzgrandeplage_1_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷" resolution="1920@1080",Франция 11
+https://live.viewsurf.com/liveedge/anglet07_1_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷" resolution="1920@1080",Франция 12
+https://live.viewsurf.com/liveedge/anglet01_1_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷" resolution="1920@1080",Франция 13
+https://live.viewsurf.com/liveedge/anglet02_1_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1920@1080",10
+http://31.47.96.14:80/hls/roznov.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1920@1080",10
+http://31.47.96.14:80/hls/eroplan.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1920@1080",11
+http://31.47.96.14:80/hls/DbecvaK.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1280@720",5
+http://185.15.109.62:8086/hls/live.stream.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1920@1080",Аэропорт
+http://live.idnes.cz/slow/planespotting/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1280@720",Бегемоты
+http://live.idnes.cz/slow/hrosi/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1920@1080",Валашске-Мезиржичи 1
+http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1920@1080",Валашске-Мезиржичи 2
+http://212.111.1.7:1937/vlmcam02/vlmcam02.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1920@1080",Валашске-Мезиржичи 3
+http://212.111.1.7:1937/vlmcam03/vlmcam03.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1280@720",Валашске-Мезиржичи 4
+http://212.111.1.7:1937/vlmcam04/vlmcam04.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1280@720",Валашске-Мезиржичи 5
+http://212.111.1.7:1937/vlmcam05/vlmcam05.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1280@720",Ж/д вокзал Вршовице
+http://live.idnes.cz/slow/vrsovice/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1920@1080",Ж/д вокзал Смихов
+http://live.idnes.cz/slow/vytopna/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1920@1080",Ж/д королевство
+http://live.idnes.cz/slow/kralovstvizeleznic/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿" resolution="1280@720",Прага
+http://live.idnes.cz/slow/amc/playlist.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷" resolution="1920@1080",Хорватия 1
+http://cdn-006.whatsupcams.com/hls/hr_kastel1.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷" resolution="1920@1080",Хорватия 2
+https://cdn-006.whatsupcams.com/hls/hr_svetvincenat01.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷" resolution="1920@1080",Хорватия 3
+https://cdn-004.whatsupcams.com/hls/hr_senj03.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷" resolution="1920@1080",Хорватия 4
+https://cdn-002.whatsupcams.com/hls/hr_brsec01.m3u8
+#EXTINF:-1 group-title="Швейцария 🇨🇭" resolution="1280@720",2
+https://live.prd.dlive.tv/hls/live/dlive-gxddefkpsc.m3u8
+#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿" resolution="3840@2160",Талин (4K)
+http://83.166.53.184:8080/index.m3u8
+#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿" resolution="1280@720",Талин 1
+http://stream02.vikingsecurity.ee:1935/otsep11/cam9108/playlist.m3u8
