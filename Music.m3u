@@ -1,73 +1,73 @@
 #EXTM3U
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://www.1muz.com/images/LOGORUS.png",Первый музыкальный
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://www.1muz.com/images/LOGORUS.png",Первый музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Rock&Roll
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik OKK
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik OKK
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Vision HD
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Vision HD
 http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Jeka
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Jeka
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Worldwide
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Worldwide
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik TV
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik TV
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Sense
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Sense
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Flashback
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Flashback
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Electro
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Electro
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik HipHop
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik HipHop
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Mediteraneo
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Mediteraneo
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Retro TV
+#EXTINF:-1 group-title="Музыкальные",Retro TV
 https://stream.mediawork.cz/retrotv....49.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png",Rock TV
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png",Rock TV
 https://tv.broadcasting.ro/rocktv...._0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.vibee.tv/wp-content/uploads/2020/09/logo_v2beat_page_small_rev.jpg",V2Beat TV Live
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.vibee.tv/wp-content/uploads/2020/09/logo_v2beat_page_small_rev.jpg",V2Beat TV Live
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/4166360d/c900f3ee_sm.png",inRating TV
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/4166360d/c900f3ee_sm.png",inRating TV
 https://inrating-tv.cdn-04.cosmonova.net.ua/hls....ex.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Magic TV
+#EXTINF:-1 group-title="Музыкальные",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",CVR
+#EXTINF:-1 group-title="Музыкальные",CVR
 https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://ritsatv.ru/files/poster/medium/700805.jpg",VIVA Russia
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://ritsatv.ru/files/poster/medium/700805.jpg",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Best of Dance TV
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Best of Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",DANCE TV TECHNO
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",DANCE TV TECHNO
 https://m2b2.worldcast.tv:7443/dancete....ee.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Techno Warehouse
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancete....ur.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png", House Floor
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png", House Floor
 https://m2b2.worldcast.tv:7443/dancete....ve.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",EDM Mainstage
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",EDM Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Downtempo
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Downtempo
 https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Melodic Tech
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Melodic Tech
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",QMUSIC
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",QMUSIC
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png",NRG 91 Music HD
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png",NRG 91 Music HD
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",RU.TV
+#EXTINF:-1 group-title="Музыкальные",RU.TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png",Радио Шансон
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls....ex.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.shanson.tv/i/logo_191112.png",Шансон ТВ
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.shanson.tv/i/logo_191112.png",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shanson....st.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://matur-tv.ru/images/logo.png",Матур ТВ
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://matur-tv.ru/images/logo.png",Матур ТВ
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Meidan TV HD
+#EXTINF:-1 group-title="Музыкальные",Meidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" ,TRANCE IS STAR RADIO
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" ,TRANCE IS STAR RADIO
 https://myradio24.org/tisradio_video.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image91450472363.jpg",30A MUSIC TV
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image91450472363.jpg",30A MUSIC TV
 https://30a-tv.com/feeds/720p/6.m3u8
