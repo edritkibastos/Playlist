@@ -1,8 +1,8 @@
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",Eurosport1 HD
-https://s.ontivi.net/594/index.m3u8?k=1749141601p321i001i561i871S8da07efd425de89a8eef8f22dc4ed955
+https://s.ontivi.net/594/index.m3u8?k=1749163346p321i001i561i871S9ae7bf205277e39d68be2c3484bdf36d
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",Eurosport2 HD
-https://s.ontivi.net/595/index.m3u8?k=1749141644p321i001i561i871Sebd59fce5f4bcec9855b424b851acc61
+https://s.ontivi.net/595/index.m3u8?k=1749163375p321i001i561i871Sd5b5edeea389955cf97839cf31822eb1
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 resolution="852@480",A21 VITAL AUTOSPORT [Not 24/7]
