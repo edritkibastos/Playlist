@@ -1,7 +1,9 @@
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",Eurosport1
-https://s.ontivi.net/594/index.m3u8?k=1750087570p321i001i561i871S7a725a8247e8140f6bc53a54bf672dad
-#EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",Eurosport2
+#EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",Eurosport 1 HD
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",Eurosport 2
 https://s.ontivi.net/595/index.m3u8?k=1750087585p321i001i561i871S9d0ce91d760bd5d66defd51b1c9d9ed9
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
