@@ -11,6 +11,8 @@ https://32tech0steam0dp01.org/live/IT_Eurosport2FHD/chunks.m3u8
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 resolution="852@480",A21 VITAL AUTOSPORT [Not 24/7]
 https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆" resolution="720@576",Viasat Sport
