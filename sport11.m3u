@@ -2,11 +2,11 @@
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",Eurosport 1 HD
 http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1
-http://195.245.99.242/Eurosport1/playlist.m3u8
+http://185.26.157.3:8080/live/eurosport/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 2
-http://195.245.99.242/Eurosport2/playlist.m3u8
+http://185.26.157.3:8080/live/eurosport2/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
+http://185.26.157.3:8080/live/eurosport2hd/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 resolution="852@480",A21 VITAL AUTOSPORT [Not 24/7]
@@ -19,8 +19,6 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Glory Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Боец
-http://87.120.142.11:18000/Match!
 #EXTINF:-1 group-title="SPORT 🏆" resolution="720@576",Viasat Sport
 http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SPORT 🏆SPORT 🏆" resolution="1280@720",Беларусь 5Беларусь 5 HD
