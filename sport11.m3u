@@ -1,12 +1,10 @@
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",Eurosport 1 HD
 http://178.217.72.66:8080/Eurosport_HD/video.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1
-http://185.26.157.3:8080/live/eurosport/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2
-http://185.26.157.3:8080/live/eurosport2/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport
+http://45.159.74.22/Eurosport/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
-http://185.26.157.3:8080/live/eurosport2hd/mono.m3u8
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 resolution="852@480",A21 VITAL AUTOSPORT [Not 24/7]
@@ -97,3 +95,4 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="SPORT 🏆" resolution="720@576",М Арена
 http://194.143.148.28:8080/MatchArena/mpegts
+
