@@ -19,10 +19,18 @@ http://gr.seetv.cc/play/43/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/361/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
-#EXTINF:-1 group-title="SPORT 🏆",Матч
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="SPORT 🏆",Fight Network HD
+http://169.150.223.25/FightNetwork/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-name="Авто 24" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Авто 24
+http://gr.seetv.cc/play/256/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Авто Плюс" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Авто Плюс
+http://gr.seetv.cc/play/29/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 #EXTINF:0 tvg-name="Матч! ПРЕМЬЕР" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! ПРЕМЬЕР
 http://gr.seetv.cc/play/37/D70CC021CA87DF2/video.m3u8
 #EXTINF:0 tvg-name="Матч Премьер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч Премьер HD
