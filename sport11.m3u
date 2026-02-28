@@ -1,4 +1,12 @@
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 1 HD
+http://ott.server-iptv.live/200/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 1 HD
+http://ott.server-iptv.live/0200/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 2 HD
+http://ott.server-iptv.live/201/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 2 HD
+http://ott.server-iptv.live/0201/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
@@ -57,3 +65,4 @@ http://gr.seetv.cc/play/212/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/153/D70CC021CA87DF2/video.m3u8
 #EXTINF:0 tvg-name="Матч! Игра HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Игра HD
 http://gr.seetv.cc/play/268/D70CC021CA87DF2/video.m3u8
+
