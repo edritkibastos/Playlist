@@ -10,12 +10,10 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="",Любимые фильмы
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=5b7dcab12e82017d3a3bea91c4e4407c
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=04a954d6254111912e487e5b688f22ad
 #EXTINF:-1 tvg-id="",Советские фильмы-2
 https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="",Отечественные фильмы
 https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="",Городок
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=39574&token=861d8315947b60f7e86f071a0793b846&server=v2.catcast.tv
 #EXTINF:-1 tvg-id="",Мистер Бин
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
