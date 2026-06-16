@@ -5,18 +5,33 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
 http://169.150.223.25/Eurosport2HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport
-http://87.246.54.249:8080/Eurosport/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport2
-http://87.246.54.249:8080/Eurosport2/index.m3u8
-#EXTINF:0 tvg-name="Eurosport" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Eurosport
-http://gr.seetv.cc/play/15/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Eurosport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Eurosport HD
-http://gr.seetv.cc/play/145/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Eurosport 2" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Eurosport 2
-http://gr.seetv.cc/play/43/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Eurosport 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Eurosport 2 HD
-http://gr.seetv.cc/play/361/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="SPORT 🏆",EUROSPORT 1
+https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport1HD
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport2HD
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 Poland HD Poland 🇵🇱
+http://81.15.109.89:8001/play/Eurosport1Poland
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 Poland HD Poland 🇵🇱
+http://81.15.109.89:8001/play/Eurosport2Poland
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD 🇫🇷
+http://99.27.51.147:8080/EuroSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
+http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
+http://169.150.223.25/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 1 HD
+http://85.117.37.41/eurosport1/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 2 HD
+http://85.117.37.41/eurosport2/index.m3u8
+#EXTINF:-1 group-title="SPORT cz", EUROSPORT1-ali3
+#EXTVLCOPT:network-caching=1000
+http://45.129.141.180:9981/stream/channelid/718615486?profile=iptv.org.ua
+#EXTINF:-1 group-title="SPORT cz", EUROSPORT2-ali3
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 group-title="SPORT 🏆",Бокс ТВ
