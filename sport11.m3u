@@ -1,18 +1,5 @@
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
-http://169.150.223.25/Eurosport1HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
-http://169.150.223.25/Eurosport2HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
-http://178.134.1.158:8081/eurosport/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="SPORT 🏆",EUROSPORT 1
 https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport1HD
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport2HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 Poland HD Poland 🇵🇱
 http://81.15.109.89:8001/play/Eurosport1Poland
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 Poland HD Poland 🇵🇱
@@ -36,39 +23,25 @@ http://45.129.141.180:9981/stream/channelid/718615486?profile=iptv.org.ua
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 group-title="SPORT 🏆",Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
-#EXTINF:-1 group-title="SPORT 🏆",Fight Network HD
-http://169.150.223.25/FightNetwork/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-name="Авто 24" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Авто 24
-http://gr.seetv.cc/play/256/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Авто Плюс" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Авто Плюс
-http://gr.seetv.cc/play/29/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Матч
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:0 tvg-name="Матч! ПРЕМЬЕР" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! ПРЕМЬЕР
-http://gr.seetv.cc/play/37/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч Премьер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч Премьер HD
-http://gr.seetv.cc/play/250/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч Арена" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч Арена
-http://gr.seetv.cc/play/136/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч! Арена HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Арена HD
-http://gr.seetv.cc/play/146/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч! Планета" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Планета
-http://gr.seetv.cc/play/14/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч ТВ
-http://gr.seetv.cc/play/5/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч! HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! HD
-http://gr.seetv.cc/play/397/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч! 50fps" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! 50fps
-http://gr.seetv.cc/play/680/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч! Боец HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Боец HD
-http://gr.seetv.cc/play/30/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="МАТЧ! Страна" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",МАТЧ! Страна
-http://gr.seetv.cc/play/134/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч! Страна HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Страна HD
-http://gr.seetv.cc/play/212/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч! Игра" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Игра
-http://gr.seetv.cc/play/153/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч! Игра HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Игра HD
-http://gr.seetv.cc/play/268/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Драйв
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикий
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="Cloud_Flare",Техно 24
+http://tinyurl.com/TvZaTak65?id=24techno
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Вопросы и Ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",В Мире Животных
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
