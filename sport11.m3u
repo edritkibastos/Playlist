@@ -26,6 +26,10 @@ https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IZONE", Моя планета
+http://46.32.176.50/moyaplaneta/index.m3u8
 #EXTINF:-1 group-title="Cloud_Flare",Техно 24
 http://tinyurl.com/TvZaTak65?id=24techno
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
