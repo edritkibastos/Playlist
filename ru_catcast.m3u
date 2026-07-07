@@ -9,11 +9,43 @@ https://kino-1.catcast.tv/content/37745/index.m3u8
 https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-id="",Любимые фильмы
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=82bf6ce4171f8865c1da5f32e9cf8251
-#EXTINF:-1 tvg-id="",Советские фильмы-2
-https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="",Отечественные фильмы
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="",Мистер Бин
-https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",EUROSPORT 1
+https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 Poland HD Poland 🇵🇱
+http://81.15.109.89:8001/play/Eurosport1Poland
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 Poland HD Poland 🇵🇱
+http://81.15.109.89:8001/play/Eurosport2Poland
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Eurosport 1
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Eurosport 2
+http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",X-Stream
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="SPORT 🏆",Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="SPORT 🏆" resolution="1920@1080",NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Драйв
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикий
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="Cloud_Flare",Техно 24
+http://tinyurl.com/TvZaTak65?id=24techno
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Вопросы и Ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",В Мире Животных
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
+http://158.101.222.193:88/georgia_play.php?id=zoo
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
