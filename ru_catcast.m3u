@@ -9,6 +9,34 @@ https://kino-1.catcast.tv/content/37745/index.m3u8
 https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Кинозалы (VPN)", Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="Internet42 LLC", Дом Кино
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="Кинозалы (VPN)", VHS кино
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="KINO+📺",СТС
+http://5.188.221.43:8080/play/sts
+#EXTINF:-1 group-title="KINO+📺",СТС 720x576
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",STS
+http://185.46.16.239:8000/STS
+#EXTINF:-1 group-title="KINO+📺",Домашний
+http://5.188.221.43:8080/play/domashniy
+#EXTINF:-1 group-title="KINO+📺",Домашний 720x576
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",nostalgy
+http://158.101.222.193:88/georgia_play.php?id=nostalgy
+#EXTINF:-1 group-title="KINO+📺",Ностальгия 
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",EUROSPORT 1
 https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 Poland HD Poland 🇵🇱
@@ -49,3 +77,9 @@ https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
+https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
