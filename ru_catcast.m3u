@@ -9,6 +9,8 @@ https://kino-1.catcast.tv/content/37745/index.m3u8
 https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="Кинозалы (VPN)", Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="Internet42 LLC", Дом Кино
@@ -31,8 +33,6 @@ http://185.46.16.239:8000/STS
 http://5.188.221.43:8080/play/domashniy
 #EXTINF:-1 group-title="KINO+📺",Домашний 720x576
 http://31.131.141.195:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="KINO+📺",nostalgy
 http://158.101.222.193:88/georgia_play.php?id=nostalgy
 #EXTINF:-1 group-title="KINO+📺",Ностальгия 
