@@ -13,6 +13,8 @@ https://kino-1.catcast.tv/content/37739/index.m3u8
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="Кинозалы (VPN)", Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 tvg-id="",Любимое
+https://s.ontivi.net/236/index.m3u8?k=1788835642p321i001i561i871S89e1ba55963251cffbff955ddc7a6d28
 #EXTINF:-1 group-title="Internet42 LLC", Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Родное кино
