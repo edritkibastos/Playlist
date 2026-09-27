@@ -10,9 +10,15 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-#EXTINF:-1 group-title="Кинозалы (VPN)", Назад в СССР
-http://kinowalk.hopto.org/backtotheussr_live
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Hetzner Online AG",Советское кино
+http://5.9.11.197:57419/chu-139/mpegts
+#EXTINF:-1 group-title="Internet42 LLC", Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Turon Media",Родное Кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", Ретро
+http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Родное кино
@@ -79,8 +85,14 @@ https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Viasat Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Оргтехсервис 🎯VPN",Viasat Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Оргтехсервис 🎯VPN",Viasat Explore
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
 https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery
