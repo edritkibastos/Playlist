@@ -13,12 +13,6 @@ http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆", EUROSPORT2-ali3 cz
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Eurosport 1
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Eurosport 2
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport HD FRANCE
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD FRANCE
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD FRANCE
-http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:-1 group-title="LLC G&G-Telecom",Eurosport 1 HD
 #EXTINF:-1 group-title="LLC G&G-Telecom",Eurosport 2 HD
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
