@@ -11,8 +11,10 @@ https://kino-1.catcast.tv/content/37745/index.m3u8
 https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Золотая коллекция
-https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTI RNF:-1 group-title="KINO+📺",M Золотая коллекция 
+http://178.134.1.158:8081/mosfilm/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="LLC G&G-Telecom",Золотая коллекция
+http://195.64.140.147:10078/78
 #EXTINF:-1 group-title="Hetzner Online AG",Советское кино
 http://5.9.11.197:57419/chu-139/mpegts
 #EXTINF:-1 group-title="Internet42 LLC", Родное кино
